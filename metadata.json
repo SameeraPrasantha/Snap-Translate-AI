@@ -1,0 +1,5 @@
+{
+  "name": "SnapTranslate AI",
+  "description": "An AI-powered application that extracts text from images using OCR and translates it into multiple languages instantly.",
+  "requestFramePermissions": []
+}
